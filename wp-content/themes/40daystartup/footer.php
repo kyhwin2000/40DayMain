@@ -24,15 +24,15 @@
     </div>
     <div class="small-12 medium-6 columns">
       <h3><i class="fa fa-envelope"></i> <br> Stay up to date on the 40 Day Startup</h3>
-      <p>So good you can finally get off Twitter and get back to making wonderful things.</p>
+      <p>Receive updates whenever a daily update is posted so you do not miss out on a single part of this journey.</p>
+      <p>You will only receive an email when there is something valuable to share.</p>
     </div>
   </div>
 </section>
 <section class="">
   <div class="row">
     <div class="small-12 columns">
-      <p>A <a href="http://theprinciple.co">The Principle Co.</a> creation.</p>
-      <p class="social-media"><a href="http://twitter.com/40daystartups" title="follow 40 Day Startup on Twitter"><i class="fa fa-twitter"></i></a></p>
+      <p>A <a href="http://theprinciple.co">The Principle Co.</a> creation | <a href="http://twitter.com/40daystartups" title="follow 40 Day Startup on Twitter"><i class="fa fa-twitter"></i></a></p>
     </div>
   </div>
 </section>

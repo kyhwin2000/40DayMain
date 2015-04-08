@@ -23,6 +23,14 @@ h2, h3, h4, h5, p {
 	}
 }
 
+.footer-form {
+	form.panel {
+		background: rgba($oil,0.5);
+		border-radius: $global-radius;
+		label {color: $white}
+	}
+}
+
 .blog {
 	padding: 3rem 0;
 	margin-bottom: 3rem;
