@@ -1,0 +1,42 @@
+body {
+	background: url('/assets/img/hero.jpg') no-repeat fixed;
+	background-size: cover;
+
+	a {
+		color: $white;
+		border-bottom: 1px solid $white;
+		transition: border-color 0.2s linear;
+		&:hover {
+			border-color: transparent;
+		}
+	}
+}
+
+h2, h3, h4, h5, p {
+	color: $white;
+}
+
+.credits {
+	p.social-media a {
+		font-size: 3rem;
+		border-bottom: none;
+	}
+}
+
+.blog {
+	padding: 3rem 0;
+	margin-bottom: 3rem;
+	background: $white;
+	h2, h3, h4, h5, p {
+		color: $oil;
+	}
+
+	a {
+		color: $fortyOrange;
+		border-bottom: 1px solid $fortyOrange;
+		transition: all 0.2s linear;
+		&:hover {
+			color: $oil;
+		}
+	}
+}

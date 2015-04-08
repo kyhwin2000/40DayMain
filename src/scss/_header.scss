@@ -1,0 +1,14 @@
+.hero {
+	padding: 2rem 0;
+	h1, h2, h3 {
+		color: $white;
+	}
+	div.logo {
+		a {
+			border-bottom: none;
+		}
+		img {
+			max-width: 10rem;
+		}
+	}
+}
