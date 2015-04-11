@@ -23,7 +23,9 @@ get_header(); ?>
 				// Start the Loop.
 				while ( have_posts() ) : the_post();
 					echo '<div class="blog-entry">';
-					the_title( '<h2><a href="' . esc_url( get_permalink() ) . '#post" rel="bookmark">', '</a></h2>' );
+					the_title( '<h2><a href="' . esc_url( get_permalink() ) . '" rel="bookmark">', '</a></h2>' );
+					the_excerpt();
+					echo '<p><a href="'.esc_url( get_permalink() ).'">Read more...</a></p>';
 					echo '</div>';
 				endwhile;
 

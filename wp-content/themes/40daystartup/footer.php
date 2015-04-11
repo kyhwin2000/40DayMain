@@ -32,7 +32,7 @@
 <section class="">
   <div class="row">
     <div class="small-12 columns">
-      <p>A <a href="http://theprinciple.co">The Principle Co.</a> creation | <a href="http://twitter.com/40daystartups" title="follow 40 Day Startup on Twitter"><i class="fa fa-twitter"></i></a></p>
+      <p>A <a href="http://theprinciple.co">The Principle Co.</a> creation | <a href="http://twitter.com/40daystartups" title="follow 40 Day Startup on Twitter"><i class="fa fa-twitter"></i> @40DayStartup</a></p>
     </div>
   </div>
 </section>
