@@ -17,7 +17,7 @@
             <div class="response" id="mce-success-response" style="display:none"></div>
           </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
           <div style="position: absolute; left: -5000px;"><input type="text" name="b_d941ba0d93b5aef57a4893003_c63ab05089" tabindex="-1" value=""></div>
-          <div class="clear"><button class="button medium expand radius">Subscribe</button></div>
+          <div class="clear"><button type="submit" class="button medium expand radius">Subscribe</button></div>
         </div>
       </form>
       <!--End mc_embed_signup-->
