@@ -10,7 +10,7 @@
         <script src="//use.typekit.net/nyu8vfe.js"></script>
         <script>try{Typekit.load();}catch(e){}</script>
     <!-- Styles -->
-    <link rel='stylesheet' href='/blog/wp-content/themes/40daystartup/style.css?ver=3.8.1' type='text/css' media='all' />
+    <link rel='stylesheet' href='/wp-content/themes/40daystartup/style.css?ver=3.8.1' type='text/css' media='all' />
     <link href="/bower_components/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/assets/css/app.css">
     <?php wp_head(); ?>
